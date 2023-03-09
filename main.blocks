@@ -1,0 +1,19 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_gesture_event" id="woK4}fUMj#d;qhQpa9`G" x="158" y="134"><field name="NAME">Gesture.LogoUp</field><statement name="HANDLER"><block type="basic_show_icon" id="|uW;sznEBZPOCo{?!Xm{"><field name="i">IconNames.Sword</field></block></statement></block><block type="device_gesture_event" id="J#Z|T$X8bVheOQvLd6Wb" x="597" y="175"><field name="NAME">Gesture.TiltRight</field><statement name="HANDLER"><block type="device_show_leds" id="54:dXDEp/99DsXWc/?,s"><field name="LEDS">`
+        . . . . . 
+        . . . # . 
+        # # # # # 
+        . . . # . 
+        . . . . .
+        `</field></block></statement></block><block type="device_gesture_event" id="/O:1^ZkPQE5Y=aWRE,KK" x="275" y="398"><field name="NAME">Gesture.LogoDown</field><statement name="HANDLER"><block type="device_show_leds" id="FjG9[J?I21y:wRoXqoSu"><field name="LEDS">`
+        . . # . . 
+        . # # # . 
+        . . # . . 
+        . . # . . 
+        . . # . .
+        `</field></block></statement></block><block type="device_gesture_event" id="rc[%w6s^(xu2e_}_,znF" x="652" y="453"><field name="NAME">Gesture.TiltLeft</field><statement name="HANDLER"><block type="device_show_leds" id=")wq9(.gZewg.WeyLn|SM"><field name="LEDS">`
+        . . . . . 
+        . # . . . 
+        # # # # # 
+        . # . . . 
+        . . . . .
+        `</field></block></statement></block></xml>
